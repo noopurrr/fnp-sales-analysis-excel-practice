@@ -15,7 +15,7 @@ Excel (Pivot Tables, Pivot Charts, Slicers)
 ## KPIs
 - Total orders: 1,000
 - Revenue: ₹35,20,984
-- Avg delivery time: 5.53
+- Avg delivery time: 5.53 days
 - Avg customer spend: ₹3,520.98
 
 ## Key Insights
